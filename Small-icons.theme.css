@@ -1,0 +1,30 @@
+/**
+ * @name Small icons
+ * @author _kriomanser_ .lauden.
+ * @description My first theme for Discord. 
+ * @version 1.2
+ * @source https://github.com/1-LAUDEN-1/Theme-for-your-discord
+ * @website https://github.com/1-LAUDEN-1
+*/
+
+@import url('https://1-lauden-1.github.io/Theme-for-your-discord/source/smallicons/style.css');
+
+:root 
+{
+ /* top left corner text */
+	--corner-text: '⠀sasakiller65';
+ 
+ /* Primary Colors */
+  --accent: 3, 102, 214;
+  --link-colour: 48, 144, 255;
+
+  /* Server List */
+  --server-icon-size: 35px;
+  --server-icon-spacing: 8px;
+  --server-container-padding: 10px;
+
+  /* Background Colors */
+  --background-primary: rgba(42, 49, 59, 0.219);
+  --background-secondary: rgba(29, 34, 41, 0.219);
+  --background-floating: rgba(29, 34, 41, 0.219);
+}
